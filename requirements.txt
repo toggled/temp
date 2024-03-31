@@ -1,0 +1,4 @@
+opt-einsum
+gensim==4.3.0
+ogb
+PyYAML
